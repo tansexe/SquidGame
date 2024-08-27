@@ -2,10 +2,10 @@
 This project is a simple motion detection game inspired by the "Red Light, Green Light" game from the popular show Squid Game. The game uses a webcam to detect player movements during the "Red Light" phase, and if movement is detected, the game ends. The player wins if they reach the "Green Light" phase and press the designated key within the time limit.
 
 ## Features
-#### - Webcam Integration: The game captures video input from the webcam.
-#### - Motion Detection: Movement is detected during the "Red Light" phase using frame differencing.
-#### - Time Limit: The game includes a countdown timer, after which the game automatically ends.
-#### - Graphics Display: Game phases ("Red Light", "Green Light") are displayed using images loaded from a specified folder.
+#### 1. Webcam Integration: The game captures video input from the webcam.
+#### 2. Motion Detection: Movement is detected during the "Red Light" phase using frame differencing.
+#### 3. Time Limit: The game includes a countdown timer, after which the game automatically ends.
+#### 4. Graphics Display: Game phases ("Red Light", "Green Light") are displayed using images loaded from a specified folder.
 
 ## Prerequisites
 Ensure you have the following installed on your system:
